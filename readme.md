@@ -1,7 +1,7 @@
 <h1 align="center"><b>Codermeister</b></h1>
 
 <p align="center">
-  <img src="221910.gif" alt="Header GIF" width="600px"/>
+  <img src="221910.gif" alt="Header GIF" width="1000px"/>
 </p>
 
 <br/>
